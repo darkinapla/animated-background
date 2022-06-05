@@ -10,7 +10,7 @@
 
 ## Examples
 
-- view to [example site](https://github.com/liveblocks/liveblocks/tree/main/examples).
+- view to [example site](https://darkinapla.github.io/animated-background/).
 
 ## License
 
